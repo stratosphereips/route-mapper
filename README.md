@@ -6,3 +6,9 @@ A program that traceroutes many IP address, collects the routes, and then create
 Put the start IP and the end IP as parameters
 
  `python route-mapper.py x.32.83.0 x.32.83.100`
+
+## Example graphs
+
+![image](https://github.com/stratosphereips/route-mapper/assets/2458867/6644cc26-a7ae-4af6-816d-9e7aed5c5f99)
+
+
